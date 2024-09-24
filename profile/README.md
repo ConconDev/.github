@@ -3,7 +3,7 @@
 <b>기프티콘 통합 관리 애플리케이션</b>
   <br>
   <br>
-  <img src="https://github.com/user-attachments/assets/70e1270f-9217-411a-a263-7cce5c17a263">
+  <img width="1355" alt="스크린샷 2024-09-24 오후 6 23 17" src="https://github.com/user-attachments/assets/32ba94ed-7344-414e-b09e-c72b58052f89">
 </div>
 
 <div align="center">
