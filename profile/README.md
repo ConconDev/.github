@@ -2,7 +2,7 @@
 <h1>☕️🧋 콘콘 🍗🎫</h1>
 <b>기프티콘 통합 관리 애플리케이션</b><br>
 </div>
-![콘콘](https://github.com/user-attachments/assets/70e1270f-9217-411a-a263-7cce5c17a263)
+<img src="https://github.com/user-attachments/assets/70e1270f-9217-411a-a263-7cce5c17a263">
 
 <div align="center">
 <h2>📖Members</h2>
