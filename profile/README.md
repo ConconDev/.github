@@ -4,9 +4,12 @@
   
 <img width="1355" alt="스크린샷 2024-09-24 오후 6 23 17" src="https://github.com/user-attachments/assets/32ba94ed-7344-414e-b09e-c72b58052f89">
 
+<br>
+
 ## 프로젝트 소개
 - 
 
+<br>
 
 ## 📖Members
 <table align = "center">
@@ -22,6 +25,8 @@
   </tr>
 </table>
 
+<br>
+
 ## 역할 분담
 ### 김세아
 - 디자인
@@ -36,12 +41,20 @@
 - 백엔드 API 개발
 - CGV 데이터 크롤링
 
+<br>
+
 ## 개발 기간 및 작업 관리
+
+<br>
 
 ## 주요 기능
 
+<br>
+
 ## 시스템 구성도
 ![KakaoTalk_Photo_2024-10-18-19-45-23](https://github.com/user-attachments/assets/e73c6a31-b5d6-4dda-b5f1-b35dc454d6f3)
+
+<br>
 
 ## 개발 환경
 - Front-end
